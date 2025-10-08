@@ -1,5 +1,6 @@
+Xin chào, tôi là <Nguyễn Đặng Hải Đăng>
+
 Giới thiệu cá nhân:
-- Tôi tên là Nguyễn Đặng Hải Đăng.
 - Sinh viên ngành Công nghệ thông tin.
 - Hiện đang học Git và lập trình.
 - Đam mê lập trình game và AI.
