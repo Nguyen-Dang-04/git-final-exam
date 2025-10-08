@@ -1,0 +1,7 @@
+Tính năng mới: Dash cho nhân vật
+
+- Nhấn phím Shift để dash.
+- Dash nhanh trong 0.5 giây.
+- Có cooldown 2 giây.
+- Hướng dash theo hướng di chuyển.
+- Hiển thị hiệu ứng khi dash.
