@@ -1,0 +1,23 @@
+Giới thiệu cá nhân:
+- Tôi tên là Nguyễn Đặng Hải Đăng.
+- Sinh viên ngành Công nghệ thông tin.
+- Hiện đang học Git và lập trình.
+- Đam mê lập trình game và AI.
+- Mong muốn phát triển kỹ năng quản lý dự án.
+
+Sở thích:
+- Chơi game
+- Vẽ pixel art
+- Học AI
+
+Kỹ năng:
+- Unity
+- C#
+- Python
+
+Kế hoạch học tập:
+- Hoàn thành các bài tập Git đúng hạn.
+- Học nâng cao C# và Unity.
+- Thực hành dự án game nhỏ mỗi tuần.
+- Nghiên cứu AI trong game.
+- Tham gia workshop lập trình để nâng cao kỹ năng.
